@@ -4,5 +4,5 @@ using namespace std;
 
 int main()
 {
-	cost << "Hello World" << endl;
+	cost << "Lost World" << endl;
 }[EOF]
